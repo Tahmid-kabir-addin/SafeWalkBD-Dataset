@@ -1,0 +1,43 @@
+names:
+- Animal
+- Bench
+- Bollard
+- Broken-road
+- Car
+- Cat
+- Construction-barrier
+- Crosswalk
+- Curb
+- Dog
+- Downstairs
+- Fallen-tree
+- Fence
+- Garbage
+- Garbage-bin
+- Light-pole
+- Motorcycle
+- Muddy road
+- Obstacle
+- Person
+- Pole
+- Pothole
+- Potted-plant
+- Railroad-crossing
+- Rickshaw
+- Sidewalk
+- Stuck-water
+- Traffic-cone
+- Traffic-light
+- Traffic-sign
+- Tree
+- Upstairs
+- Vehicle
+- Wall
+- Over-bridge
+- Road-barrier
+- Train
+nc: 37
+test: ../test/images
+train: ../train/images
+val: ../valid/images
+
